@@ -14,7 +14,7 @@
 
 ## Usage
 ### Download hyperspectral data.<br>
-Download the Inidan Pines, the Salinas and the Pavia University and put them into *dataset*:<br>
+Download the Inidan Pines, the Salinas and the Pavia University and put them into `./dataset`:<br>
 ### Train&Test the Inidan Pines:<br>
 
     python hybridsn.py -GPU 0 
