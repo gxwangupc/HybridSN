@@ -4,7 +4,7 @@
  * This is a keras implementation of the IEEE GRSL paper 'HybridSN: Exploring 3-D–2-D CNN Feature Hierarchy for Hyperspectral Image Classification'.<br>
  * See https://github.com/gokriznastic/HybridSN for the original implementation in the jupyter notebook form.<br>
 
- * I have adapted the code into the form of python script, making it easier for running directly.<br>
+ * I have adapted the code into the python script form, making it easier for running directly.<br>
  
 ## Environment & Requirements
 * CentOS Linux release 7.2.1511 (Core)<br>
